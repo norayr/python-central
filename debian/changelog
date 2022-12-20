@@ -1,3 +1,9 @@
+python-central (0.6.12) unstable; urgency=low
+
+  * fremantle -> chimaera
+
+ -- Norayr Chilingarian <norayr@arnet.am>  Wed, 21 Dec 2022 03:30:17 +0400
+
 python-central (0.6.11.1maemo2) unstable; urgency=low
 
   * postrm: remove /usr/share/pycentral-data/pyversions.pyo
