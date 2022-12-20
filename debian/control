@@ -15,3 +15,4 @@ Description: register and build utility for Python packages
  This package provides support for building and installing
  python modules independent of the current installed Python
  version.
+XSBC-Bugtracker: mailto:norayr@arnet.am
